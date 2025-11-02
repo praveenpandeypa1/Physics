@@ -1,0 +1,90 @@
+// Here is the all concept and introduction of all concept related to Introduction:
+* physical quantity means that can be repersented in number +unit; eg: 5 meter;
+
+**Unit= it is referenc to measure physical quantity:
+there are two types of unit :
+fundamental unit: that can not be derived eg: m, s;
+derived unit: that is derived from base unit : eg joule , newton:
+
+| Physical Quantity   | Unit     | Symbol |
+| ------------------- | -------- | ------ |
+| Length              | meter    | m      |
+| Mass                | kilogram | kg     |
+| Time                | second   | s      |
+| Temperature         | kelvin   | K      |
+| Electric current    | ampere   | A      |
+| Amount of substance | mole     | mol    |
+| Luminous intensity  | candela  | cd     |
+
+**Additinol infromation about SI unit:
+
+| Quantity    | Unit      | Symbol |
+| ----------- | --------- | ------ |
+| Plane angle | radian    | rad    |
+| Solid angle | steradian | sr     |
+
+
+**Derived Ubit example:
+
+| Quantity          | Unit | Expression in SI base units |
+| ----------------- | ---- | --------------------------- |
+| Speed             | m/s  | m·s⁻¹                       |
+| Force (Newton)    | N    | kg·m·s⁻²                    |
+| Work (Joule)      | J    | kg·m²·s⁻²                   |
+| Pressure (Pascal) | Pa   | kg·m⁻¹·s⁻²                  |
+| Power (Watt)      | W    | kg·m²·s⁻³                   |
+
+
+**Dimensions shows how physical quantity are made from base units:
+
+| Quantity            | Dimension Symbol |
+| ------------------- | ---------------- |
+| Length              | L                |
+| Mass                | M                |
+| Time                | T                |
+| Current             | I                |
+| Temperature         | Θ                |
+| Amount of substance | N                |
+| Luminous intensity  | J                |
+
+
+✅ Dimensional Formula
+
+Representation of physical quantity in terms of M, L, T etc.
+
+Example:
+
+Velocity = distance/time
+
+[
+𝑉
+]
+=
+𝐿
+𝑇
+−
+1
+[V]=LT
+−1
+
+** common dimensionol Formula:
+
+| Quantity     | Dimensional Formula |
+| ------------ | ------------------- |
+| Velocity     | (LT^{-1})           |
+| Acceleration | (LT^{-2})           |
+| Force        | (MLT^{-2})          |
+| Work/Energy  | (ML^2T^{-2})        |
+| Pressure     | (ML^{-1}T^{-2})     |
+| Power        | (ML^2T^{-3})        |
+| Density      | (ML^{-3})           |
+
+
+**Important unit conversion
+| Quantity | Conversion |
+| -------- | ---------- |
+| 1 km     | 1000 m     |
+| 1 cm     | 0.01 m     |
+| 1 L      | 1000 cm³   |
+| 1 hour   | 3600 s     |
+| 1 Newton | kg·m/s²    |
