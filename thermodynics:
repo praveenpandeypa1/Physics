@@ -1,0 +1,539 @@
+it is the part of science where we study about energy and its part of energy: heat energy and work:
+\
+
+it consist of three parts:
+
+1)system: the part of universe which is under observation is system:
+2)sorroundings: the rest part of universe which is not system in known as sorroudings:
+3)system + soroorundinsg is known as universe:
+
+System:
+1) Open system: where you are able to exchange both mass and energy from sorrounding is jnown as open system:
+2) closed system when you are abale to exchange
+
+1)Thermodynamics is the branch of physics that deals with the study of heat, work, energy, 
+and the laws governing the conversion of one form of energy into another, 
+along with the behavior of systems in equilibrium.
+
+2)✅ Thermodynamic System
+
+A thermodynamic system is a specific quantity of matter or a region in space chosen for study,
+separated from its surroundings by a real or imaginary boundary.
+
+Types of Thermodynamic Systems
+🔹 1. Open System
+
+A system that can exchange both mass and energy (heat or work) with its surroundings.
+
+Example:
+Boiling water in an open pot, human body, steam turbine.
+
+🔹 2. Closed System
+
+A system that can exchange energy (heat or work) but not mass with its surroundings.
+
+Example:
+A sealed pressure cooker, gas in a piston cylinder (without leakage).
+
+🔹 3. Isolated System
+
+A system that cannot exchange either mass or energy with its surroundings.
+
+Example:
+A perfectly insulated thermos bottle (ideal case), universe (approx).
+
+
+✅ State of a System
+
+The state of a thermodynamic system is the condition of the system at a given moment, 
+described by its measurable properties such as pressure, temperature, volume, and composition.
+
+📌 Important Points
+
+A thermodynamic state is fully defined by state variables/properties
+(P, V, T, internal energy, etc.)
+
+If any of these properties changes, the state of the system changes.
+
+When properties do not change with time, the system is said to be in thermodynamic equilibrium.
+
+
+✅ Thermodynamic Properties
+
+Thermodynamic properties are measurable characteristics of a system that define its state, 
+such as pressure, volume, temperature, and mass.
+
+Types of Thermodynamic Properties
+🔹 1. Intensive Properties
+
+Properties that do not depend on the mass or size of the system.
+
+They remain the same even if the system is divided into smaller parts.
+Examples:
+
+
+Temperature (T)
+
+
+Pressure (P)
+
+
+Density (ρ)
+
+
+Specific heat
+
+
+Refractive index
+
+
+Concentration
+
+
+Memory Trick:
+Intensive = Independent of mass (I → Independent)
+
+🔹 2. Extensive Properties
+
+Properties that depend on the mass or size of the system.
+
+If the system is divided, these properties split in the same ratio.
+Examples:
+
+
+Mass (m)
+
+
+Volume (V)
+
+
+Internal energy (U)
+
+
+Enthalpy (H)
+
+
+Entropy (S)
+
+
+Number of moles (n)
+
+
+Memory Trick:
+Extensive = Expands with mass (E → Expands)
+
+📌 Comparison Table
+Property TypeDepends on Mass?ExamplesIntensive❌ NoTemperature, Pressure, DensityExtensive✅ YesMass, Volume, Energy, Entropy
+
+⭐ Special Note
+
+Extensive property / mass = Intensive property
+
+Example:
+
+
+Volume (extensive) / mass → Specific volume (intensive)
+
+
+
+If you'd like, next I can explain:
+
+
+State functions vs Path functions
+
+
+Thermodynamic equilibrium
+
+
+Process types (isothermal, adiabatic, isobaric, isochoric)
+
+
+Just say yes ✅
+
+
+✅ State Variables (State Functions)
+
+State variables are properties that depend only on the current state of the system, not on how the system reached that state.
+
+They are determined by state parameters like P, V, T.
+
+Even if the path changes, the value remains the same for the same state.
+
+Examples
+
+Pressure (P)
+
+Volume (V)
+
+Temperature (T)
+
+Internal energy (U)
+
+Enthalpy (H)
+
+Entropy (S)
+
+Density (ρ)
+
+Key Point
+
+If initial and final states are same → Change in state function = 0
+
+✅ Path Variables (Path Functions)
+
+Path variables depend on the path or process by which a system changes from one state to another.
+
+Their values are determined by how the process occurs, not just initial and final states.
+
+Examples
+
+Heat (Q)
+
+Work (W)
+
+Key Point
+
+Diffrence table:
+
+If path changes → Heat & work change:
+
+| Feature           | State Variables         | Path Variables   |
+| ----------------- | ----------------------- | ---------------- |
+| Depends on Path?  | ❌ No                    | ✅ Yes            |
+| Depends on State? | ✅ Yes                   | ❌ No             |
+| Symbol            | Usually capital letters | Q & W mainly     |
+| Examples          | P, V, T, U, H, S        | Heat, Work       |
+| Cyclic Process    | Δ(state function) = 0   | Total Q or W ≠ 0 |
+
+
+✅ Zeroth Law of Thermodynamics
+
+The Zeroth Law of Thermodynamics states that if two systems are each in thermal equilibrium with a third system, then they are also in thermal equilibrium with each other.
+
+🔥 Meaning
+
+If A is in thermal equilibrium with C
+
+And B is in thermal equilibrium with C
+
+Then
+➡️ A and B will be in thermal equilibrium with each other
+➡️ So they have the same temperatur
+
+✅ Example
+
+If a thermometer (C) is in thermal equilibrium with:
+
+Hot water (A) → thermometer shows high reading
+
+Ice water (B) → thermometer shows low reading
+
+When thermometer shows same reading with both,
+➡️ A and B are at the same temperature
+
+✅ Zeroth Law of Thermodynamics
+
+If two bodies are each in thermal equilibrium with a third body, they are in thermal equilibrium with each other.
+
+✅ Defines temperature
+✅ Basis of thermometers
+✅ Lets us compare temperatures correctly
+
+Example:
+If Body A and Body B both have the same temperature as a thermometer (Body C), then A and B are at the same temperature.
+
+✅ First Law of Thermodynamics (Law of Energy Conservation)
+
+Energy cannot be created or destroyed, only converted from one form to another.
+
+In thermodynamics:
+
+Δ
+𝑈
+=
+𝑄
+−
+𝑊
+ΔU=Q−W
+
+Where:
+✅ ΔU = Change in internal energy
+✅ Q = Heat supplied to system
+✅ W = Work done by the system
+
+Meaning:
+
+Adding heat increases internal energy or does work
+
+If system does work, its internal energy decreases
+
+Example:
+Heating gas in a piston — gas expands (work done) and internal energy increases.
+
+✅ Second Law of Thermodynamics
+
+Heat cannot spontaneously flow from a colder body to a hotter body without external work.
+
+✅ Introduces entropy (disorder)
+✅ Heat flows hot → cold naturally
+✅ No engine can be 100% efficient
+
+Two famous statements:
+
+✅ Kelvin–Planck Statement
+
+No heat engine can convert all heat into work.
+
+✅ Clausius Statement
+
+Heat cannot flow from cold to hot without work.
+
+✅ Entropy Concept
+
+Entropy of an isolated system always increases or remains constant; it never decreases.
+
+Δ
+𝑆
+≥
+0
+ΔS≥0
+
+Natural processes are irreversible.
+
+Example:
+
+Ice melts → irreversible
+
+Perfume spreads in a room → spontaneous, entropy increases
+
+✅ Third Law of Thermodynamics
+
+At absolute zero (0 K), entropy of a perfectly crystalline substance is zero.
+
+✅ Impossible to reach absolute zero
+✅ At 0 K, particles have minimum motion (theoretically)
+
+| Law    | Key Idea                              | Formula / Concept     |
+| ------ | ------------------------------------- | --------------------- |
+| Zeroth | Defines **temperature & equilibrium** | A = B = C (temp wise) |
+| First  | **Energy conserved**                  | ΔU = Q − W            |
+| Second | **Entropy increases**, no 100% engine | ΔS ≥ 0                |
+| Third  | **Entropy = 0 at 0 K**                | S → 0 as T → 0        |
+
+quickmemory
+| Law    | Easy Memory Line                           |
+| ------ | ------------------------------------------ |
+| Zeroth | Temperature exists & can be measured       |
+| First  | Energy can't be created or destroyed       |
+| Second | Heat flows from hot to cold; entropy rises |
+| Third  | Absolute zero → zero entropy (ideal)       |
+
+
+✅ Thermodynamic Processes
+✅ 1. Isothermal Process
+
+A process in which temperature remains constant (T = constant)
+
+✅ Heat exchange occurs with surroundings
+✅ Internal energy (ΔU) = 0 (for ideal gas)
+✅ Equation:
+
+𝑃
+𝑉
+=
+constant
+or
+𝑃
+1
+𝑉
+1
+=
+𝑃
+2
+𝑉
+2
+PV=constantorP
+1
+	​
+
+V
+1
+	​
+
+=P
+2
+	​
+
+V
+2
+	​
+
+
+✅ Slow process (system remains in thermal equilibrium)
+
+Example:
+Expansion of gas in a cylinder placed in a water bath at constant temperature.
+
+✅ 2. Adiabatic Process
+
+A process in which no heat is exchanged (Q = 0)
+
+✅ Rapid process (no time for heat transfer)
+✅ Equation:
+
+𝑃
+𝑉
+𝛾
+=
+constant
+PV
+γ
+=constant
+
+Where 
+𝛾
+=
+𝐶
+𝑝
+𝐶
+𝑣
+γ=
+C
+v
+	​
+
+C
+p
+	​
+
+	​
+
+ (ratio of specific heats)
+
+✅ Change in internal energy ≠ 0
+✅ Temperature changes
+
+Example:
+Compression in diesel/petrol engine cylinder.
+
+✅ 3. Isochoric / Isometric Process (Constant Volume)
+
+Volume remains constant (V = constant)
+
+✅ No work done (W = 0), since
+
+𝑊
+=
+𝑃
+Δ
+𝑉
+=
+0
+W=PΔV=0
+
+✅ Added heat changes internal energy & temperature
+✅ Pressure changes with heat
+
+Example:
+Heating a gas in a sealed rigid container.
+
+✅ 4. Isobaric Process (Constant Pressure)
+
+Pressure remains constant (P = constant)
+
+✅ Work done is not zero
+
+𝑊
+=
+𝑃
+Δ
+𝑉
+W=PΔV
+
+✅ Heat added changes volume & temperature
+
+Example:
+Heating air in an open saucepan.
+
+✅ 5. Polytropic Process
+
+A general process represented as:
+
+𝑃
+𝑉
+𝑛
+=
+constant
+PV
+n
+=constant
+
+Where n = polytropic index
+
+✅ Special cases:
+
+Process	Value of n
+Isobaric	n = 0
+Isothermal	n = 1
+Adiabatic	n = γ
+Isochoric	n → ∞
+
+Example:
+Air compressors follow polytropic behavior.
+
+✅ 6. Cyclic Process
+
+Process in which the system returns to its initial state
+
+✅ Total internal energy change = 0
+
+Δ
+𝑈
+=
+0
+ΔU=0
+
+✅ Work done ≠ 0 (usually produced or consumed)
+
+Example:
+Heat engines like steam engine, Otto cycle, Diesel cycle.
+
+✅ 7. Free Expansion
+
+Expansion of a gas into vacuum without doing work
+
+✅ No external pressure
+✅ No heat exchange (Q = 0)
+✅ No work done (W = 0)
+
+𝑄
+=
+0
+,
+𝑊
+=
+0
+,
+Δ
+𝑈
+=
+0
+Q=0,W=0,ΔU=0
+
+✅ Temperature remains constant (ideal gas)
+✅ Highly irreversible process
+
+Example:
+Gas released suddenly into an empty container.
+
+Summary table:
+
+| Process        | Constant      | Heat Exchange | Work  | Energy Change |
+| -------------- | ------------- | ------------- | ----- | ------------- |
+| Isothermal     | Temperature   | Yes           | Yes   | ΔU = 0        |
+| Adiabatic      | No heat (Q=0) | No            | Yes   | ΔU ≠ 0        |
+| Isochoric      | Volume        | Yes           | W = 0 | ΔU ≠ 0        |
+| Isobaric       | Pressure      | Yes           | Yes   | ΔU ≠ 0        |
+| Polytropic     | PVⁿ = const   | Yes/No        | Yes   | Depends on n  |
+| Cyclic         | State returns | Yes           | Yes   | ΔU = 0        |
+| Free Expansion | —             | No            | W = 0 | ΔU = 0        |
